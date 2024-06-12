@@ -2,3 +2,6 @@ plan travel
 bag packing
 hiking
 visit america
+visit japan
+do fishing
+horse riding
